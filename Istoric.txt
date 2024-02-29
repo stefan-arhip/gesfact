@@ -1,0 +1,50 @@
+Versiune      : GesFact v1.0a
+Timp de lucru : 2006.12.29 16:30-2006.12.30 02:30 - [10 ore]
+Cod sursa     : 846 linii
+Adaugari      : + crearea interfetei grafice
+                + adaugarea vanzatorilor si cumparatorilor (rudimentara)
+
+Versiune      : GesFact v1.0b
+Timp de lucru : 2006.12.30 12:30-2006.12.30 22:30 - [10 ore]
+Cod sursa     : 1652 linii
+Adaugari      : + inlaturarea unor linii de cod inutile
+                + posibilitate de redimensionare a ferestrei principale
+                + posibilitate de adaugare, modificare si stergere a vanzatorilor, cumparatorilor si a produselor
+
+Versiune      : GesFact v1.0c
+Timp de lucru : 2006.12.31 12:30-2006.12.30 22:30 - [10 ore]
+Cod sursa     : 1952 linii
+Adaugari      : + optimizarea formatului pentru vanzator/cumparator, produs si factura
+                + campurile nesalvate din ferestrele vanzator/cumparator, delegat si produs sunt scrise cu rosu
+
+Versiune      : GesFact v1.0d
+Timp de lucru : 2007.01.01 22:30-2007.01.02 18:30 - [20 ore]
+Cod sursa     : 3252 linii
+Adaugari      : + indepartarea erorilor la salvarea campurilor selectate din liste
+                + posibilitate de adaugare/modificare/stergere a facturilor
+                + campurile nesalvate din ferestra facturi sunt cu rosu
+                + posibilitate de tiparire a facturilor
+                + adaugarea ferestrei de informatii generale, utilizare si despre aplicatie
+
+Versiune      : GestFact v1.0e
+Timp de lucru : 2007.01.04 17:30-2007.01.05 03:30 - [10 ore]
+Cod sursa     : 3348 linii
+Adaugari      : + la listarea facturii, campurile vide vor apare scrise  cu "__________", pentru a putea fi scrise de mana
+                + factura va fi listata cu fontul "MonoSpace 821 Bold"
+                + functie de tipul partenerului, se pot introduce fie Codul Fiscal (pers.juridica), fie CNP (pers.fizica)
+                + tiparirea facturii tine cont de tipul partenerului
+                + salvarea unor setari intr-un fisier ".INI"
+
+Versiune      : GestFact v1.0f
+Timp de lucru : 2007.01.05 12:00-2007.01.05 22:30 - [10 ore]
+Cod sursa     : 3690 linii
+Adaugari      : + dimensiunile si pozitia ferestrei principale se pastreaza la redeschiderea aplicatiei
+                + stilizarea ferestrelor 
+                + calcularea corecta discountului si scaderea din factura
+
+Versiune      : GestFact v1.0g
+Timp de lucru : 2007.01.07 11:00-2007.01.07 21:00 - [10 ore]
+Cod sursa     : 4262 linii
+Adaugari      : + posibilitate de inregistrare a aplicatiei
+
+
